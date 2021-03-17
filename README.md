@@ -18,6 +18,7 @@ evolve at different speeds. These days, my stack is composed of
 * __backend__ – MariaDB, DynamoDB, and SFTP servers on AWS
 * __API Layer__ – Express/Node.js on docker/AWS Elastic Container Services
 * __Front End__ – React/Redux on Nginx/docker/AWS ECS; but considering Gatsby on AWS CloudFront.
+* __Desktop__ – Electron, TypeScript, and Svlete
 * __Infrastructure Scripting__ - Bash, Terraform, and AWS CloudFormation
 * __Documentation__ – Docusaurus
 * __Traffic Analysis__ – Jupyter/Pandas/Python
